@@ -1,7 +1,7 @@
 # Exp No: 8 — Solve Cryptarithmetic Problem (Constraint Satisfaction Problem) using Python  
 
 ### Name:  Boopathy S
-### Register Number:  2305003006
+### Register Number:  2305003002
 
 ---
 
