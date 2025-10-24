@@ -140,7 +140,8 @@ else:
 
 ## Output
 
-<img width="840" height="97" alt="image" src="https://github.com/user-attachments/assets/71869433-2b7a-4474-91b7-457b032dc8f9" />
+<img width="163" height="83" alt="Screenshot 2025-10-24 141955" src="https://github.com/user-attachments/assets/86625119-74cb-4bc8-baf5-528bfee2834e" />
+
 
 ## Result
 
